@@ -14,6 +14,8 @@ Successfully deleted.,删除成功。
 Sure you want to remove this item?,确定要删除这个记录？
 Please specifiy an item.,请指定一个记录。
 Item with specified ID does not exist.,指定 ID 所对应的记录不存在。
+Yes,是
+No,否
 
 Dashboard,仪表板
 dynamic portal,动态门户
