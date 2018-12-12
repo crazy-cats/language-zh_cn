@@ -12,5 +12,6 @@
  * @link http://crazy-cat.co
  */
 return [
-    'code' => 'zh_CN'
+    'code' => 'zh_CN',
+    'name' => '简体中文'
 ];
