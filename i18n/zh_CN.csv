@@ -1,0 +1,46 @@
+Actions,操作
+Create New,创建新记录
+items per page,个记录每页
+"Total %1 items, page %2 of %3",共 %1 个记录，%3 页中的第 %2 页
+Search,搜索
+Edit,编辑
+Back,返回
+Save,保存
+Save and Continue,保存并继续编辑
+Successfully saved.,保存成功。
+Delete,删除
+Mass Delete,批量删除
+Successfully deleted.,删除成功。
+Sure you want to remove this item?,确定要删除这个记录？
+Please specifiy an item.,请指定一个记录。
+Item with specified ID does not exist.,指定 ID 所对应的记录不存在。
+
+Dashboard,仪表板
+dynamic portal,动态门户
+Administrator Login,管理员登录
+Login,登录
+Logout,登出
+Logged in successfully.,登录成功。
+Logged out successfully.,登出成功。
+User does not exist or password does not match the username.,用户不存在，或者密码与用户名不对应。
+Admin,管理员
+Administrators,管理员
+ID,ID
+Name,名称
+Username,用户名
+Enabled,启用
+Role,角色
+Password,密码
+Administrator List,管理员列表
+Edit Administrator `%1` [ ID: %2 ],编辑管理员 %1 [ ID: %2 ]
+Create Administrator,创建管理员
+Administrator Roles,管理员角色
+Parent Role,上级角色
+Permissions,权限
+Role Title,角色称号
+Administrator Role List,管理员角色列表
+Edit Administrator Role `%1` [ ID: %2 ],编辑管理员角色 %1 [ ID: %2 ]
+Create Administrator Role,创建管理员角色
+Role record with specified parent ID does not has a path.,指定的上级角色没有设置合法路径。
+Impossible to get a role without role ID.,无法获取一个不含 ID 的角色。
+You do not have the permission.,你没有权限执行这个操作。
