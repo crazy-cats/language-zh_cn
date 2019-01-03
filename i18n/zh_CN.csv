@@ -16,6 +16,7 @@ Successfully deleted.,删除成功。
 Sure you want to remove this item?,确定要删除这个记录？
 Please specifiy an item.,请指定一个记录。
 Item with specified ID does not exist.,指定 ID 所对应的记录不存在。
+No matched record found.,找不到匹配的记录。
 Yes,是
 No,否
 General,一般选项
@@ -84,6 +85,9 @@ Menu List,菜单列表
 Menu Name,菜单名称
 Identifier,编号
 Menu Items,菜单元素
+Items of Menu `%1` [ ID: %2 ],菜单元素 `%1` [ ID: %2 ]
+Edit Menu Item `%1` [ ID: %2 ],编辑菜单元素 `%1` [ ID: %2 ]
+Create Menu Item,创建菜单元素
 Target,目标
 Parent Item,上级元素
 Type,类型
