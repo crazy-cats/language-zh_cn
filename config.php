@@ -7,9 +7,9 @@
 
 /**
  * @category CrazyCat
- * @package CrazyCat\Language\ZhCn
- * @author Bruce Z <152416319@qq.com>
- * @link http://crazy-cat.co
+ * @package  CrazyCat\Language\ZhCn
+ * @author   Liwei Zeng <zengliwei@163.com>
+ * @link     https://crazy-cat.cn
  */
 return [
     'code' => 'zh_CN',

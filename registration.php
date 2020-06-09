@@ -1,16 +1,16 @@
 <?php
 
 /*
- * Copyright © 2018 CrazyCat, Inc. All rights reserved.
+ * Copyright © 2020 CrazyCat, Inc. All rights reserved.
  * See COPYRIGHT.txt for license details.
  */
 
-use CrazyCat\Framework\App\Setup\Component;
+use CrazyCat\Framework\App\Component\Manager as ComponentManager;
 
 /**
  * @category CrazyCat
- * @package CrazyCat\Language\ZhCn
- * @author Bruce Z <152416319@qq.com>
- * @link http://crazy-cat.co
+ * @package  CrazyCat\Language\ZhCn
+ * @author   Liwei Zeng <zengliwei@163.com>
+ * @link     https://crazy-cat.cn
  */
-Component::getInstance()->register( 'crazycat_zh_cn', Component::TYPE_LANG, __DIR__ );
+ComponentManager::getInstance()->register('crazycat_zh_cn', ComponentManager::TYPE_LANG, __DIR__);

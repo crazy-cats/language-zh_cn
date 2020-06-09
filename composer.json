@@ -7,32 +7,18 @@
     ],
     "authors": [
         {
-            "name": "Bruce Z",
+            "name": "Liwei Zeng",
             "email": "zengliwei@163.com",
-            "homepage": "http://crazy-cat.co",
+            "homepage": "https://crazy-cat.cn",
             "role": "Developer"
         }
     ],
     "require": {
         "crazycat/framework": "~1.0"
     },
-    "require-dev": {
-        "crazycat/framework": "dev-master"
-    },
     "autoload": {
         "files": [
             "registration.php"
-        ]
-    },
-    "scripts": {
-        "post-package-install": [
-            "php index.php system:cache:clear"
-        ],
-        "post-package-update": [
-            "php index.php system:cache:clear"
-        ],
-        "post-package-uninstall": [
-            "php index.php system:cache:clear"
         ]
     }
 }
