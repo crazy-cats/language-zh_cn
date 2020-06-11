@@ -93,13 +93,14 @@ Parent Item,上级元素
 Type,类型
 Menu with specified ID does not exist.,指定 ID 的菜单不存在。
 
-CMS Blocks,静态块
-CMS Block List,静态块列表
+Contents,静态内容
+Content Blocks,静态块
+Content Block List,静态块列表
 Block Title,静态块标题
-CMS Pages,静态内容页
-CMS Page List,静态内容页列表
-Create CMS Page,创建静态内容页
-Edit CMS Page `%1` [ ID: %2 ],编辑静态内容页 `%1` [ ID: %2 ]
+Content Pages,静态内容页
+Content Page List,静态内容页列表
+Create Content Page,创建静态内容页
+Edit Content Page `%1` [ ID: %2 ],编辑静态内容页 `%1` [ ID: %2 ]
 Page Title,页面标题
 Content,内容
 Meta Keywords,元关键字
