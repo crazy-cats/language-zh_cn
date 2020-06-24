@@ -94,13 +94,18 @@ Type,类型
 Menu with specified ID does not exist.,指定 ID 的菜单不存在。
 
 Contents,静态内容
-Content Blocks,静态块
+Blocks,静态块
 Content Block List,静态块列表
 Block Title,静态块标题
-Content Pages,静态内容页
-Content Page List,静态内容页列表
-Create Content Page,创建静态内容页
-Edit Content Page `%1` [ ID: %2 ],编辑静态内容页 `%1` [ ID: %2 ]
+Articles,静态文章
+Article List,静态文章列表
+Create Article,创建静态文章
+Edit Article `%1` [ ID: %2 ],编辑静态文章 `%1` [ ID: %2 ]
+Article Title,文章标题
+Article Categories,文章分类
+Article Category List,文章分类列表
+Create Article Category,创建文章分类
+Edit Article Category `%1` [ ID: %2 ],编辑文章分类 `%1` [ ID: %2 ]
 Page Title,页面标题
 Content,内容
 Meta Keywords,元关键字
