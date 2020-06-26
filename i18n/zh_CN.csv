@@ -5,6 +5,9 @@ items per page,个记录每页
 "Total %1 items, page %2 of %3",共 %1 个记录，%3 页中的第 %2 页
 Search,搜索
 Title,标题
+Categories,分类
+Description,描述
+Parent,父级
 Edit,编辑
 Back,返回
 Save,保存
@@ -106,7 +109,9 @@ Article Categories,文章分类
 Article Category List,文章分类列表
 Create Article Category,创建文章分类
 Edit Article Category `%1` [ ID: %2 ],编辑文章分类 `%1` [ ID: %2 ]
+Category Name,分类名
 Page Title,页面标题
+Short Content,摘要
 Content,内容
 Meta Keywords,元关键字
 Meta Description,元描述
