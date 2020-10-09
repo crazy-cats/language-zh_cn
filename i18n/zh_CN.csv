@@ -142,3 +142,14 @@ Create Customer Group,创建用户组
 Edit Customer Group `%1` [ ID: %2 ],编辑用户组 `%1` [ ID: %2 ]
 Group Name,名字
 Group Code,编号
+
+Banners,广告栏
+Banner List,广告栏列表
+Banner Groups,广告栏分组
+Banner Name,广告栏名字
+Banner Group,广告栏分组
+Banner Type,广告栏类型
+Banner Group Name,广告栏分组名字
+Image,图片
+Video,影片
+File,文件
